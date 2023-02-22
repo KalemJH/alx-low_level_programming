@@ -1,7 +1,7 @@
-#!/bin/bash
+bin/bash
 #include <stdio.h>
 
-int main()
+int main(main.h)
 {
 	char 0-putchar.c = '_putchar';
 
